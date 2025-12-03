@@ -81,7 +81,7 @@ Este projeto foi construído com tecnologias modernas e robustas:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/davicavalcantiaraujo1-commits/sistema-jcar-automaticos.git
+git clone https://github.com/davicavalcanti1/sistema-jcar-automaticos.git
 cd sistema-jcar-automaticos
 ```
 
