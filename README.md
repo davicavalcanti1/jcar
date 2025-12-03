@@ -275,7 +275,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 **Davi Cavalcanti Araújo**
 
-- GitHub: [@davicavalcantiaraujo1-commits](https://github.com/davicavalcantiaraujo1-commits)
+- GitHub: [@davicavalcantiaraujo1-commits](https://github.com/davicavalcanti1)
 
 ---
 
